@@ -14,7 +14,7 @@ NK Codes💛 - QR Code Generator
 
 Live Demo:
 
-    
+ https://nishap24.github.io/JS-Project-12-QR-Code-Generator/   
     
 ## Getting Started
 
