@@ -7,7 +7,7 @@ NK Codes💛 - QR Code Generator
 "Built using JavaScript, HTML, and CSS, this QR Code generator empowers you to quickly and effortlessly create QR codes. Simply input your desired text, URL, or any other information, and generate a QR code instantly. With a sleek and intuitive interface, this web application simplifies the process of generating QR codes for various purposes."
 ## Authors
 
-- [NK💛](https://www.github.com/codesofTG) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
@@ -39,6 +39,10 @@ To explore or modify the code, follow these steps:
 
 3. Partial Responsive Design: Enjoy the QR code generator across various devices, although it may not fully adapt to all screen sizes.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43a687b0-a732-426f-a277-a4198280f3b0/deploy-status)](https://app.netlify.com/sites/kanasu-qr-code-generator/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
@@ -57,7 +61,7 @@ NK :
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_p_24)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
 
 
 Thank you for visiting the page!
